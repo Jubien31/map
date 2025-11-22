@@ -220,7 +220,7 @@
          "height":100,
          "id":2,
          "name":"floorLayer",
-         "opacity":0,
+         "opacity":0.5,
          "properties":[
                 {
                  "name":"collides",
