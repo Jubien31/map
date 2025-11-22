@@ -223,9 +223,14 @@
          "opacity":0.5,
          "properties":[
                 {
+                 "name":"alpha",
+                 "type":"float",
+                 "value":0
+                }, 
+                {
                  "name":"collides",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
