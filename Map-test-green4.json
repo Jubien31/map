@@ -178,6 +178,17 @@
  "nextlayerid":5,
  "nextobjectid":2,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"collisionLayer",
+         "type":"string",
+         "value":"collisions"
+        }, 
+        {
+         "name":"startLayer",
+         "type":"string",
+         "value":"start"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
  "tileheight":32,
